@@ -1,4 +1,4 @@
-# Simple SwiftUI App | Hike App [![GitHub TechWithSam](https://img.shields.io/github/followers/techwithsam?label=follow&style=social)](https://github.com/techwithsam)
+# Simple SwiftUI App | Hike App ~ [![GitHub TechWithSam](https://img.shields.io/github/followers/techwithsam?label=follow&style=social)](https://github.com/techwithsam) [![wakatime](https://wakatime.com/badge/user/17680bd9-f12b-4310-aea8-6d4494a2eb13/project/24f2fe8d-602e-427d-9e61-de0999124012.svg)](https://wakatime.com/badge/user/17680bd9-f12b-4310-aea8-6d4494a2eb13/project/24f2fe8d-602e-427d-9e61-de0999124012)
 
 ### ✌&ensp; App Preview
 
